@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I Am MEHMET EMİR ALBAYRAK
+## ABOUT ME
+I am studying Computer Engineering in Gebze Technical University and It is second year in the university. I love making games and learning new things
 
 <!--
 **MehmetEmirAlbayrak/MehmetEmirAlbayrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
