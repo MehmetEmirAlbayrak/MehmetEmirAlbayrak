@@ -1,6 +1,10 @@
 ### Hi there 👋 I Am MEHMET EMİR ALBAYRAK
 ## ABOUT ME
 I am studying Computer Engineering in Gebze Technical University and It is second year in the university. I love making games and learning new things
+## Game Development
+`https://github.com/MehmetEmirAlbayrak/WizardTheBouncer`
+## Data Structures and Algorithms 
+`https://github.com/MehmetEmirAlbayrak/DoublyLinkedList`
 
 <!--
 **MehmetEmirAlbayrak/MehmetEmirAlbayrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
